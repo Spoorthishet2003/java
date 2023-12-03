@@ -1,4 +1,4 @@
-//Floyds Algorithm
+//Implement All-Pairs Shortest Paths problem using Floyd's algorithm.
 
 package lab;
 import java.util.Scanner;
